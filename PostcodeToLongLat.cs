@@ -24,7 +24,7 @@ namespace PostcodeToCoord
         public double lat, longi;
         private string _apiUri;
 
-        bool success;
+        public bool success;
 
         /// <summary>
         /// Create new object of the conversion class
